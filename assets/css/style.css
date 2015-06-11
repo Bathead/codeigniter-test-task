@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    height: 100%;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 100%;
+    height: 100%;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
+
+a {
+    color: #656565;
+}
+a:hover {
+    text-decoration: none;
+}
+
+.header {
+    height: 55px;
+    background: rgb(232, 232, 232);
+}
+.header .inside {
+    padding: 10px;
+    font-size: 200%;
+}
+
+.pagination {
+    font-size: 150%;
+    text-align: center;
+}
+
+.middle {
+    width: 100%;
+    padding: 0 0 100px;
+    position: relative;
+}
+.middle:after {
+    display: table;
+    clear: both;
+    content: '';
+}
+.container {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+.content {
+    padding: 0 270px 0 0;
+}
+
+.news-block {
+    margin-bottom: 40px;
+}
+.news-block h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.news-bottom {
+    margin-top: 15px;
+    border-top: 1px solid #d0d0d0;
+    font-size: 13px;
+}
+.news-bottom .inside {
+    padding: 5px 0 5px 0;
+}
+.news-bottom .inside .left {
+    float: left;
+}
+.news-bottom .inside .right {
+    float: right;
+}
+.news-bottom .inside .left:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.news-link {
+    text-decoration: none;
+    color: black;
+}
+.button {
+    margin-top: 15px;
+}
+
+.right-sidebar {
+    float: left;
+    width: 250px;
+    margin-left: -250px;
+    position: relative;
+    min-height: 300px;
+    background: rgb(232, 232, 232);
+}
+
+.right-sidebar .inside {
+    padding: 10px;
+}
+
+.footer {
+    width: 1000px;
+    margin: -40px auto 0;
+    height: 35px;
+    background: rgb(232, 232, 232);
+    position: relative;
+}
+.footer .inside {
+    padding: 10px;
+}
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65);
+}
+
+.button-error {
+    background: rgb(202, 60, 60);
+}
+
+.button-warning {
+    background: rgb(223, 117, 20);
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221);
+}
