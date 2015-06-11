@@ -6,10 +6,10 @@
             <legend>Auth Form</legend>
             <?if($this->session->userdata('message')) echo $this->session->userdata('message');?>
             <label for="email">Email</label>
-            <input id="email" type="email" name="identity" placeholder="Email">
+            <input id="email" type="email" name="identity" placeholder="Email" required>
 
             <label for="password">Password</label>
-            <input id="password" type="password" name="password" placeholder="Password">
+            <input id="password" type="password" name="password" placeholder="Password" required>
 
             <label for="remember" class="pure-checkbox">
                 <input id="remember" type="checkbox" name="remember"> Remember me
