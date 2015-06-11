@@ -1,4 +1,4 @@
-# CodeIgniter 3 - Tesk Task
+# CodeIgniter 3 - Test Task
 
 #
 * Time: 3 hours
