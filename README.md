@@ -5,6 +5,7 @@
 
 # Using:
 * PureCSS
+* jQuery
 * Ion-Auth
 * CKEditor
 
