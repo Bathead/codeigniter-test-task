@@ -1,5 +1,7 @@
 # CodeIgniter 3 - Tesk Task
 
+#
+* Time: 3 hours
 
 # Using:
 * PureCSS
