@@ -11,9 +11,9 @@
 # Features
 * Blog posts pagination
 * Single view post
-* Add/Edit/Delete posts (who authorized)
+* Add/Edit/Delete posts (if authorized)
 * Login/logout function
-* Post foramatting
+* Post formatting
 
 # Screenshots
 * Screenshot 1 - ![Alt text](http://www.dima.rv.ua/2015-06-11_170316.png "Screenshot 1")
