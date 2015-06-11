@@ -14,9 +14,9 @@
 * Post foramatting
 
 # Screenshots
-![Alt text](http://s7.hostingkartinok.com/uploads/images/2015/06/b82b522268499d337114047bd889ce0d.png "Screenshot 1")
-![Alt text](http://s7.hostingkartinok.com/uploads/images/2015/06/8aa483fcefd2145b30a489509e086f8c.png "Screenshot 2")
-![Alt text](http://s7.hostingkartinok.com/uploads/images/2015/06/ddf0e162398f5a7ce1ac1938721687d0.png "Screenshot 3")
+![Alt text](http://www.dima.rv.ua/2015-06-11_170316.png "Screenshot 1")
+![Alt text](http://www.dima.rv.ua/2015-06-11_170702.png "Screenshot 2")
+![Alt text](http://www.dima.rv.ua/2015-06-11_170713.png "Screenshot 3")
 
 # Info
 * User: admin@admin.com
