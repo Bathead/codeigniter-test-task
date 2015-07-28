@@ -30,7 +30,7 @@ class Main extends CI_Controller {
         $config['per_page'] = self::itemsPerPage;
         $config['first_url'] = '/';
         $config['full_tag_open'] = '<p class="pagination">';
-        $config['full_tag_close'] = '<p>';
+        $config['full_tag_close'] = '</p>';
 
         $this->pagination->initialize($config);
         $data['pagination'] = $this->pagination->create_links();
